@@ -215,7 +215,7 @@ module.exports = async(xinz, msg, blocked, baterai, _afk, welcome, left) => {
         // Anti link
         if (isGroup && isAntiLink && !isOwner && !isGroupAdmins && isBotGroupAdmins){
             if (chats.match(/(https:\/\/chat.whatsapp.com)/gi)) {
-                reply(`*「 GROUP LINK DETECTOR 」*\n\nSepertinya kamu mengirimkan link grup, maaf kamu akan di kick`)
+                reply(`*「 GROUP LINK DETECTOR 」*\n\nSepertinya kamu mengirimkan link grup,MAMPUS ANJINK GW KICK LO`)
                 xinz.groupRemove(from, [sender])
             }
         }
