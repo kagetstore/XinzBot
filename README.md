@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Xinz-Team/XinzBot/main/media/Itsuki.jpg" alt="XINZ BOT" width="128" height="128"/>
+<img src="https://i.ibb.co/WFS85Jn/20211001-234228.jpg" alt="20211001-234228" border="0">
 </p>
 <p align="center">
 <a href="#"><img title="XINZ BOT" src="https://img.shields.io/badge/XINZ BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
